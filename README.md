@@ -1,2 +1,5 @@
 # python_basics
-git
+## git add .
+## git commit -m "any msg"
+## git push
+### git git 
